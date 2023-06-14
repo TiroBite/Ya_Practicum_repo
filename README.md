@@ -1,12 +1,23 @@
-# Проекты во время обучения в Яндекс.Практикум.
+![Header](./header-image.png)
 
-Данные проекты были выполнены в ходе обучения  профессии "Специалист по Data Science".
-| Название проекта | Описание | Используемые инструменты* | 
+These projects were completed during the training for the "Data Science Specialist" profession..
+| Name project | Description | Used framework* | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Определение стоимости автомобиля](car_price) | Разработка системы рекомендации стоимости автомобиля на основе его описания| *LightGBM* |
-| [Классификация комментариев](toxic_comments) | Разработка модели, которая будет искать токсичные комментарии и отправлять их на модерацию.| *BERT, NLTK, TF-IDF* |
-| [Исследование очистки золота](gold_explore) | Разработка модели, предсказывающая коэффициент восстановления золота из золотосодержащей руды на основе данных с параметрами добычи и очистки.|  |
+| [Car price prediction](car_price) |Development of a car price recommendation system based on its description.| <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" title="LightGBM" alt="lgb" width="75" height="75" />|
+| [Classification commentaries](toxic_comments) | Development of a model that will detect toxic comments. | *BERT, NLTK, TF-IDF* |
+| [Explore gold](gold_explore) | Development of a model that predicts the gold recovery coefficient from gold-bearing ore based on data with mining and refining parameters.|  |
 
 
-Дополнения: <br />
-*во всех проектам базово используются инструменты Pandas, Numpy, Matplotlib, Scikit-learn в различных вариациях, поэтому эти библиотеки не дублируются в "используемые инструменты"
+Addition: <br />
+<p>
+*In all projects, the following libraries and tools are commonly used:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="pd" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="np" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" title="Scikit-learn" alt="sklearn" width="50" height="25"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" title="Scikit-learn" alt="sklearn" width="25" height="25"/>&nbsp;
+  Therefore, these libraries are not duplicated in the "used tools" section.
+
+
+
+
+
