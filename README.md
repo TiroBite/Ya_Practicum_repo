@@ -4,7 +4,7 @@ These projects were completed during the training for the "Data Science Speciali
 | Name project | Description | Used framework* | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Car price prediction](car_price) |Development of a car price recommendation system based on its description.| <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" title="LightGBM" alt="lgb" width="75" height="75" />|
-| [Classification commentaries](toxic_comments) | Development of a model that will detect toxic comments. | *BERT, NLTK, TF-IDF* |
+| [Classification commentaries](https://github.com/TiroBite/Ya_Practicum_repo/blob/main/toxic_comments/Toxic%20comments.ipynb) | Development of a model that will detect toxic comments. | *BERT, NLTK, TF-IDF* |
 | [Explore gold](gold_explore) | Development of a model that predicts the gold recovery coefficient from gold-bearing ore based on data with mining and refining parameters.|  |
 
 
